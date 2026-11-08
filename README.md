@@ -1,3 +1,5 @@
+<img src="assets/banner.svg" alt="Muffek — FiveM developer" width="100%">
+
 ### Hey, Muffek here 👾
 
 FiveM developer from Poland. I write scripts and in-game interfaces for roleplay servers - Lua on the client and server side, Vue or React for the NUI.
