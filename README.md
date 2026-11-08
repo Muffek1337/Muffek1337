@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm Muffek!
 
-<!--
-**Muffek1337/Muffek1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FiveM developer from Poland 🇵🇱
+I write scripts and in-game interfaces for roleplay servers - Lua on the client and server side, Vue and React for the NUI.
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **What I do**
+* 🎮 Custom FiveM resources from scratch - standalone or built on ESX / QBCore / Qbox
+* 📱 Modern NUI - phones, tablets, HUDs and menus in Vue / React
+* 🔒 Rewriting old scripts - server-side validation, closing exploits and event abuse
+* 🗄️ Database design with oxmysql - inventories, economies and player data
+* 📈 Optimization - lightweight code that keeps the server smooth with a full player count
+
+----
+
+🧰 **Tech stack**
+
+[![Tech stack](https://skillicons.dev/icons?i=lua,js,ts,vue,react,html,css,tailwind,vite,nodejs,mysql,git,vscode&perline=13)](https://skillicons.dev)
